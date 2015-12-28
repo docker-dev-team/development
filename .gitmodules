@@ -1,0 +1,3 @@
+[submodule "cpanel"]
+	path = cpanel
+	url = https://github.com/docker-dev-team/cpanel.git
